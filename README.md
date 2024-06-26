@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi there 👋
 Welcome to my GitHub profile! I'm a Junior Software Engineer with a robust background in web application development, CI/CD implementation, automation, and cloud technologies. Here, you'll find a showcase of my projects, achievements, and skills that highlight my journey and expertise in the tech world.
 
 
@@ -6,7 +6,7 @@ As a passionate and dedicated software engineer, I bring hands-on experience in 
 
 
 # 💫 About Me:
-## 🔭 I’m currently working on<br>- Developing a scalable e-commerce platform with enhanced user experience and advanced e-commerce features.<br><br>## 👯 I’m looking to collaborate on<br>- Innovative web development projects and open-source contributions.<br><br>## 🤝 I’m looking for help with<br>- Advanced cloud technologies and optimizing CI/CD pipelines for large-scale applications.<br><br>## 🌱 I’m currently learning<br>- Advanced cloud architecture and Kubernetes.<br><br>## 💬 Ask me about<br>- Web development with React.js and Django, as well as CI/CD implementation and automation.<br>
+🔭 I’m currently working on<br>- Developing a scalable e-commerce platform with enhanced user experience and advanced e-commerce features.<br><br> 👯 I’m looking to collaborate on<br>- Innovative web development projects and open-source contributions.<br><br> 🤝 I’m looking for help with<br>- Advanced cloud technologies and optimizing CI/CD pipelines for large-scale applications.<br><br> 🌱 I’m currently learning<br>- Advanced cloud architecture and Kubernetes.<br><br> 💬 Ask me about<br>- Web development with React.js and Django, as well as CI/CD implementation and automation.<br>
 
 
 ## 🌐 Socials:
